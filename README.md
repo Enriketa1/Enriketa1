@@ -2,68 +2,103 @@
 
 ### Cybersecurity Professional | SOC Analyst | Incident Response
 
-I am a cybersecurity professional focused on **Security Operations, Threat Detection, Incident Response, and Vulnerability Management**. I hold an **M.S. in Cybersecurity from Pace University** with a concentration in Cybersecurity Operations and Incident Response, and I am **CompTIA Security+ certified**.
+I am a cybersecurity professional with a background in both cybersecurity and software engineering. My main interests are **security operations, incident response, threat detection, and vulnerability management**.
 
-My portfolio documents hands-on SOC investigations and security labs, including alert triage, SIEM monitoring, endpoint and network telemetry analysis, threat hunting, detection engineering, and incident documentation.
+I earned my **M.S. in Cybersecurity from Pace University**, with a concentration in Cybersecurity Operations and Incident Response, and I am **CompTIA Security+ certified**.
 
-## 🔐 Core Security Skills
+## About Me
 
-- **SOC & Incident Response:** Alert triage, incident investigation, log analysis, event correlation, escalation, threat hunting fundamentals
-- **SIEM & Monitoring:** Wazuh, Splunk, Microsoft Sentinel
-- **Endpoint Security:** Microsoft Defender for Endpoint, Microsoft Defender XDR, Sysmon, CrowdStrike Falcon
-- **Microsoft Security:** Microsoft 365 Defender, Entra ID, Intune, Conditional Access, identity and audit investigations
-- **Network Security:** Wireshark, TCP/IP, DNS, DHCP, HTTP/HTTPS, VPN, firewalls, IDS/IPS
-- **Vulnerability Management:** Nessus, Qualys, OpenVAS, security baseline assessment and risk-based prioritization
-- **Threat Analysis:** MITRE ATT&CK, IOC/IOA analysis, phishing and BEC investigation
-- **Scripting & Querying:** Python, PowerShell, Bash, SQL, KQL
+- 🎓 M.S. in Cybersecurity — Pace University
+- 💻 B.S. in Software Engineering — Epoka University
+- 🔐 CompTIA Security+ certified
+- 🛡️ Experience with security monitoring, alert triage, incident investigation, vulnerability management, and Microsoft 365 security
+- 📍 New York, NY
 
-## 🧪 SOC Portfolio
+## Technical Skills
 
-This portfolio is being developed around realistic security operations workflows and sanitized lab scenarios.
+**Security Operations:** Incident Response, Threat Detection & Analysis, Security Monitoring, Alert Triage, SIEM, Log Analysis, Threat Hunting Fundamentals, Endpoint Security, Vulnerability Management, Security Event Correlation
 
-### Projects
+**Security Tools:** Splunk, Microsoft Sentinel, Microsoft Defender for Endpoint, Microsoft 365 Defender, CrowdStrike Falcon, Wireshark, Nessus, Qualys, Burp Suite, Nmap, Metasploit
 
-**SOC Alert Triage Lab**  
-Structured investigation of authentication, phishing, endpoint, and other security alerts using an analyst triage workflow, evidence review, severity assessment, disposition, and escalation decisions.
+**Threat Analysis:** IOC/IOA Analysis, Phishing Analysis, Digital Forensics Fundamentals, Malware Analysis Fundamentals, MITRE ATT&CK, Cyber Kill Chain
 
-**Wazuh SOC Lab**  
-Wazuh deployment and endpoint monitoring, Windows telemetry, Sysmon, security baselining, detection tuning, custom detections, and SOC investigation workflows.
+**Network Security:** TCP/IP, DNS, DHCP, HTTP/HTTPS, VPN, Firewalls, IDS/IPS, Network Traffic Analysis, Packet Analysis
 
-**Microsoft Security Investigations**  
-Identity and Microsoft 365 investigations involving audit activity, Conditional Access, SharePoint/OneDrive activity, Defender alerts, and incident correlation.
+**Cloud & Identity:** Microsoft Azure, Microsoft 365, Microsoft Entra ID, Microsoft Intune, IAM, MFA
 
-**Defender XDR Threat Hunting**  
-Threat-hunting exercises using Microsoft Defender XDR and KQL to investigate endpoint, identity, process, and network telemetry.
+**Application Security:** OWASP Top 10, Secure Coding, Web Application Security, API Security, SQL Injection, XSS
 
-**Network Security Monitoring**  
-Firewall and network telemetry analysis, VPN activity, endpoint/network correlation, and structured network-event investigation.
+**Programming & Scripting:** Python, Java, JavaScript, SQL, Bash, PowerShell, C/C++
 
-**Vulnerability Management Lab**  
-Risk-based vulnerability prioritization, security baseline assessment, remediation analysis, and validation.
+**Operating Systems:** Windows, Windows Server, Linux (Ubuntu, Kali Linux), macOS
 
-> Additional project repositories and investigation write-ups are being added as the portfolio develops.
+## Experience
 
-## 🎓 Education & Certification
+### Security Operations Center Analyst — Stargrid Solutions
+**Jul 2025 – Present | New York, NY**
 
-**M.S. Cybersecurity — Pace University**  
-Concentration: Cybersecurity Operations & Incident Response
+- Monitor systems, networks, and cloud environments for potential security threats.
+- Support vulnerability assessments and remediation activities.
+- Work with Microsoft 365 security, patching, and log monitoring.
+- Assist with incident analysis, escalation, and SOC monitoring procedures.
 
-**B.S. Software Engineering — Epoka University**
+### Junior Cybersecurity Analyst — NeaTech Solutions
+**New York, NY**
 
-**CompTIA Security+**
+- Monitored systems, networks, and applications using SIEM and log analysis tools.
+- Investigated security alerts and supported incident response and escalation.
+- Assisted with vulnerability assessments and internal security audits.
+- Supported website security through patching, access-log monitoring, and SSL certificate management.
 
-## 🎯 Current Focus
+### Incident Response Analyst — ISSAT.AL
+**Jan 2022 – Jun 2023 | Tirana, Albania**
 
-I am continuing to strengthen my hands-on SOC capabilities in:
+- Monitored and analyzed security alerts using Splunk and QRadar.
+- Performed incident triage, investigation, and root-cause analysis.
+- Conducted vulnerability assessments using Nessus and OpenVAS.
+- Developed incident response playbooks and documented lessons learned.
+- Delivered phishing-awareness training.
 
-- Security alert investigation and case documentation
-- Wazuh and SIEM monitoring
-- Sysmon and Windows security telemetry
-- Microsoft Defender XDR and KQL threat hunting
-- Detection engineering and tuning
-- Endpoint and network event correlation
-- Incident response workflows
+## SOC & Cybersecurity Projects
+
+### 🔎 [SOC Alert Triage Lab](https://github.com/Enriketa1/soc-alert-triage-lab)
+
+My first portfolio project covers the basic SOC triage process using simulated authentication and phishing alerts. It includes a reusable alert-triage checklist and two documented investigations.
+
+### More projects in progress
+
+I am continuing to build hands-on projects around Microsoft security investigations, threat hunting, Wazuh/Sysmon monitoring, detection engineering, network security monitoring, and vulnerability management. I will add each project here as I complete it.
+
+## Academic Projects
+
+### Predicting CVE Risk Using Machine Learning
+- Used Python, Scikit-learn, TF-IDF, Plotly, and SMOTE.
+- Worked with 100,000+ CVEs to predict CVSS v3 metrics from vulnerability descriptions.
+- Used Logistic Regression, SMOTE, and hyperparameter tuning to improve the model.
+
+### Implementing Network Defense for Luna Bags
+- Configured a DMZ environment with Apache web servers.
+- Deployed Wazuh IDS for threat detection and security event logging.
+- Performed simulated penetration testing, including brute-force testing, to evaluate defenses and improve firewall rules.
+
+## Certification
+
+**CompTIA Security+** — Issued January 2025
+
+## Education
+
+**Pace University**  
+M.S. in Cybersecurity — Cybersecurity Operations & Incident Response  
+Graduated May 2025
+
+**Epoka University**  
+B.S. in Software Engineering — Secure Software Development  
+Graduated with Honors, 2023
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/enriketahoxha)
 
 ---
 
-*Security-related examples in this public portfolio use lab, simulated, or sanitized data. Sensitive employer, client, credential, and production-environment information is not published.*
+*Projects published here use lab, simulated, or sanitized data. I do not publish employer, client, credential, or confidential production information.*
