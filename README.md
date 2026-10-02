@@ -18,6 +18,9 @@ I enjoy working on SOC investigations, alert triage, threat detection, vulnerabi
 ### [SOC Alert Triage Lab](https://github.com/Enriketa1/soc-alert-triage-lab)
 Practice SOC investigations using simulated authentication and phishing alerts, including evidence review, severity assessment, and escalation decisions.
 
+### [Microsoft 365 Security Investigation Lab](https://github.com/Enriketa1/m365-security-investigation-lab)
+Email header analysis, BEC indicators, and simulated Microsoft 365 identity investigations.
+
 More hands-on SOC and security projects are in progress.
 
 ## 🎓 Background
